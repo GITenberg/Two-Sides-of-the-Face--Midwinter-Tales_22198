@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3579
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Quiller-Couch
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22198#Two-Sides-of-the-Face--Midwinter-Tales
 gutenberg_issued: '2007-08-01'
 gutenberg_type: Text
 identifiers:
