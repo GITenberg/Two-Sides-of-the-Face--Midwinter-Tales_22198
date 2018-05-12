@@ -1,0 +1,36 @@
+_repo: Two-Sides-of-the-Face--Midwinter-Tales_22198
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Quiller-Couch, Arthur
+    aliases:
+    - Quiller-Couch, Sir Arthur Thomas
+    - Q
+    - Quiller-Couch, A. T. (Arthur Thomas)
+    - Quiller-Couch, Arthur Thomas
+    birthdate: 1863
+    deathdate: 1944
+    gutenberg_agent_id: '3579'
+    url: http://www.gutenberg.org/2009/agents/3579
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Quiller-Couch
+description: ''
+gutenberg_issued: '2007-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22198'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+- !lcsh 'Short stories, English'
+tableOfContents: Stephen of Steens -- The horror on the stair -- The mazed election
+  (1768) -- The Hotwells duel -- Clever court -- The collaborators -- The rider in
+  the dawn -- My lady's coach.
+title: 'Two Sides of the Face: Midwinter Tales'
+url: http://www.gutenberg.org/ebooks/22198
